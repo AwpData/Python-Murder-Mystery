@@ -1,2 +1,2 @@
 # Python-Murder-Mystery
-Play Murder Mystery on python
+You can play murder mystery with your own names or 2 sets of names that I provided 
