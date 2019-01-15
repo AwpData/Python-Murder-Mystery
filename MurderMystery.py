@@ -15,7 +15,7 @@ if what=="choose":
             break
         people.append(name)
     if len(people)<1 and name=="done":
-        people=["trevor", "nikhil", "cejay", "ken"]
+        people=["Lenny", "Carl", "Joe", "Bill"]
     index=len(people)-1
     rand=random.randint(0,index)
     dracula=random.randint(0,10)
